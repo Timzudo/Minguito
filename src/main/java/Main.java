@@ -27,7 +27,7 @@ public class Main {
 
 
 
-    private static final String TOKEN =     "Token";
+    private static final String TOKEN =     "yourToken";
 
     private static SystemInterface s;
     private static JDA jda;
