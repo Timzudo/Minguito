@@ -1,0 +1,1 @@
+worker: java -jar target/MinguitoOnline-1-jar-with-dependencies.jar
